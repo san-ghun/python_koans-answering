@@ -2,6 +2,10 @@
 Python Koans
 ============
 
+---
+- (2021/Jun/02) A fork repository to reach enlightenment of mighty Python, by Sanghun.   
+---
+
 .. image:: https://travis-ci.org/gregmalcolm/python_koans.png?branch=master
    :target: http://travis-ci.org/gregmalcolm/python_koans
 
